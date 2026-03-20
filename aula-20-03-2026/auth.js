@@ -7,7 +7,7 @@ function validarLogin(email, senha) {
     return "Senha muito curta";
   }
 
-  if (email = "admin@email.com" && senha === "123456") {
+  if (email === "admin@email.com" && senha === "123456") {
     return "Login realizado com sucesso";
   }
 
