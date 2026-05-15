@@ -1,0 +1,15 @@
+{
+  "name": "projeto-integracao",
+  "version": "1.0.0",
+  "description": "projeto de integracao manual",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranyelson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.22.3"
+  }
+}
