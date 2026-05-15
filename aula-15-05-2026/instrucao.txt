@@ -1,0 +1,6 @@
+Criar o projeto: npm init -y
+Instalar as dependências:
+  1 - Framework Express: npm install express
+  2 - Integração com o banco de dados: npm install mysql2
+
+Rodar a aplicação: node app.js
